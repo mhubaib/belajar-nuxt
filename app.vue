@@ -1,5 +1,8 @@
 <template>
-<h1>Muhammad Hubaib</h1>
+  <h1>Counter App</h1>
+    <input  type="text" placeholder="Masukan nama anda">
+    <button>Submit</button>
+    
 </template>
 
 <script>
@@ -7,8 +10,9 @@
 </script>
 
 <style>
-h1{
-  color: maroon;
-  text-align: center;
-}
+    h1{
+      color: darkcyan;
+    }
+    
+    
 </style>
